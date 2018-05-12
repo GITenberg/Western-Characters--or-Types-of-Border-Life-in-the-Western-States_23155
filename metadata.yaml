@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25715'
     url: http://www.gutenberg.org/2009/agents/25715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23155#Western-Characters--or-Types-of-Border-Life-in-the-Western-States
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-10-23'
 gutenberg_type: Text
